@@ -20,7 +20,7 @@ function Input({
           htmlFor={amountInputId}
           className="text-black/40 mb-2 inline-block"
         >
-          {label}// now what about the id of label{" "}
+          {label}
         </label>
         <input
           id={amountInputId}
